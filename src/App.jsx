@@ -15,7 +15,7 @@ function App() {
         <Route path='/' element={<Home />} exact />
         <Route path='/about' element={<About headerTitle={"about"} />} />
         <Route path='/project' element={<Project headerTitle={"projects"} pagination={99} />} />
-        <Route path="*" element={<Navigate to="/" replace />} />
+        <Route path="*" element={<Navigate to="/" replace={true} />} />
       </Routes>
       <Footer />
     </>
