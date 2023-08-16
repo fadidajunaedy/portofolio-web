@@ -4,7 +4,7 @@ import About from './pages/About'
 import Home from './pages/Home';
 import Project from './pages/Project'
 import Footer from './components/Footer'
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes, Navigate } from "react-router-dom";
 
 function App() {
 
@@ -15,6 +15,7 @@ function App() {
         <Route path='/' element={<Home />} exact />
         <Route path='/about' element={<About headerTitle={"about"} />} />
         <Route path='/project' element={<Project headerTitle={"projects"} pagination={99} />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
       <Footer />
     </>
