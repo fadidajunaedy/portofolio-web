@@ -1,0 +1,22 @@
+{
+    "project": [
+        {
+            "id": 0,
+            "title": "Bookshelf App",
+            "description": "Sebuah Web Aplikasi untuk mengorganisasikan buku.",
+            "image": "https://iili.io/iobZpj.png",
+            "linkWeb": "https://bookshelf-gold.vercel.app/",
+            "linkGithub": "https://github.com/fadidajunaedy/Bookshelf",
+            "tech": "Javascript"
+        },
+        {
+            "id": 1,
+            "title": "EasyCookin'",
+            "description": "Sebuah Web untuk pencarian resep makanan dengan mudah.",
+            "image": "https://iili.io/HHngIzG.md.png",
+            "linkWeb": "https://easycookin.vercel.app/",
+            "linkGithub": "https://github.com/fadidajunaedy/EasyCookin",
+            "tech": "Javascript, Web Component"
+        }
+    ]
+}
