@@ -9,7 +9,6 @@ const Project = ({ headerTitle, pagination }) => {
             display: isActive ? 'none' : 'block'
         }
     }
-
     return (
         <section id="project" className="container max-w-lg mx-auto py-4 px-4 md:px-0">
             <h2 className='text-2xl font-bold mb-4'>{headerTitle}</h2>
