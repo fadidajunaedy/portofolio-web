@@ -2,17 +2,26 @@
     "project": [
         {
             "id": 0,
+            "title": "Where in the world?",
+            "description": "App that provides information about countries around the world.",
+            "image": "https://freeimage.host/i/HbBS93b",
+            "linkWeb": "https://whereintheworldfj.vercel.app/",
+            "linkGithub": "https://github.com/fadidajunaedy/rest-countries",
+            "tech": "React JS, Tailwind CSS"
+        },
+        {
+            "id": 1,
             "title": "Bookshelf App",
-            "description": "Sebuah Web Aplikasi untuk mengorganisasikan buku.",
+            "description": "Book organisation web application.",
             "image": "https://iili.io/iobZpj.png",
             "linkWeb": "https://bookshelf-gold.vercel.app/",
             "linkGithub": "https://github.com/fadidajunaedy/Bookshelf",
             "tech": "Javascript"
         },
         {
-            "id": 1,
+            "id": 2,
             "title": "EasyCookin'",
-            "description": "Sebuah Web untuk pencarian resep makanan dengan mudah.",
+            "description": "An easy to use website for finding recipes from around the world.",
             "image": "https://iili.io/HHngIzG.md.png",
             "linkWeb": "https://easycookin.vercel.app/",
             "linkGithub": "https://github.com/fadidajunaedy/EasyCookin",
