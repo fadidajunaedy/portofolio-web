@@ -2,6 +2,15 @@
     "project": [
         {
             "id": 0,
+            "title": "Madani Infosphere",
+            "description": "An integrated information system of diverse knowledge and information related to the work of Madani Berkelanjutan.",
+            "image": "https://iili.io/JuQMGhQ.md.png",
+            "linkWeb": "https://job-listing-fj.vercel.app/",
+            "linkGithub": "https://github.com/fadidajunaedy/job-listing",
+            "tech": "React JS, Tailwind CSS, Express"
+        },
+        {
+            "id": 1,
             "title": "Job Listings with Filter",
             "description": "This application simplifies the job search process, providing an intuitive interface for both job seekers and employers. Challenge by Frontend Mentor",
             "image": "https://iili.io/HyjLTEN.md.png",
@@ -10,7 +19,7 @@
             "tech": "React JS, Tailwind CSS"
         },
         {
-            "id": 1,
+            "id": 2,
             "title": "Calculating Dreams",
             "description": "App for calculating the cost of your dream property.",
             "image": "https://iili.io/HpL2aPR.md.png",
@@ -19,25 +28,7 @@
             "tech": "React JS, Tailwind CSS"
         },
         {
-            "id": 2,
-            "title": "IP Address Tracker",
-            "description": "The IP Tracker tool will allow anyone to find out the country and the ISP of the IP address.",
-            "image": "https://iili.io/HpNwoB9.md.png",
-            "linkWeb": "https://ip-tracker-fj.vercel.app/",
-            "linkGithub": "https://github.com/fadidajunaedy/ip-tracker",
-            "tech": "Javascript, Leaflet JS"
-        },
-        {
             "id": 3,
-            "title": "Where in the world?",
-            "description": "App that provides information about countries around the world.",
-            "image": "https://iili.io/HbBS93b.md.png",
-            "linkWeb": "https://whereintheworldfj.vercel.app/",
-            "linkGithub": "https://github.com/fadidajunaedy/rest-countries",
-            "tech": "React JS, Tailwind CSS"
-        },
-        {
-            "id": 4,
             "title": "Bookshelf App",
             "description": "Book organisation web application.",
             "image": "https://iili.io/iobZpj.png",
@@ -46,7 +37,7 @@
             "tech": "Javascript"
         },
         {
-            "id": 5,
+            "id": 4,
             "title": "EasyCookin'",
             "description": "An easy to use website for finding recipes from around the world.",
             "image": "https://iili.io/HHngIzG.md.png",

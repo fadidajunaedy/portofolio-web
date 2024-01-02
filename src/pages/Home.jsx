@@ -4,7 +4,7 @@ import Project from "./Project";
 const Home = () => {
     return (
         <>
-            <About headerTitle={"about me"} />
+            <About />
             <Project headerTitle={"featured project"} pagination={2} />
         </>
     )

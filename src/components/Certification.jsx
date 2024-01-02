@@ -6,7 +6,7 @@ import { FiArrowUpRight } from "react-icons/fi";
 const Certification = () => {
     return (
         <>
-            <h3 className="text-xl font-bold mb-4">certification</h3>
+            <h3 className="text-xl font-bold mb-4">Certification</h3>
             <div tabIndex={0} className="collapse collapse-arrow border border-base-300 bg-base-200">
                 <div className="collapse-title text-xl font-medium">
                     Menjadi Front-End Web Developer Expert (Dicoding Indonesia)&nbsp;
